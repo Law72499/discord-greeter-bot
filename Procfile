@@ -1,2 +1,2 @@
-web: manual
+web: npm start
 worker: node bot.js
